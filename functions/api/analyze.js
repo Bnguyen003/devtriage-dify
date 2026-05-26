@@ -1,5 +1,5 @@
 const DIFY_API_URL = 'https://api.dify.ai/v1/workflows/run';
-const DIFY_API_KEY = process.env.DIFY_API_KEY; 
+const DIFY_API_KEY = context.env.DIFY_API_KEY; 
 
 export async function onRequestPost(context) {
   try {
