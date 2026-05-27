@@ -44,7 +44,7 @@ DevTriage streamlines this process using an AI workflow powered by Dify and depl
 ## Demo
 
 Live Demo:
-https://devtriage-dify-ovszegjee5.edgeone.dev/
+https://devtriage-dify.edgeone.dev
 
 ### Sample Issues
 
