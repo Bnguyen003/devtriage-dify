@@ -58,9 +58,8 @@ Try these public GitHub issues:
 
 ## Screenshot
 
-<img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/9d216217-28cd-4759-a93f-25bddc6cdbc9" />
-<img width="1913" height="1029" alt="image" src="https://github.com/user-attachments/assets/c4a70ab1-f045-4346-80d2-13824e6028bf" />
-
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/b3e8fb36-b319-4bc8-a4f3-61d3fa0d95d0" />
+<img width="1916" height="1029" alt="image" src="https://github.com/user-attachments/assets/eef523ec-e22a-4593-8b8c-826d669bc021" />
 
 ---
 
